@@ -27,13 +27,13 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": false,
+      "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 180,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to SoloPlayz!",
-        "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
+        "FOLLOW ON INSTAGRAM : https://www.instagram.com/bonous_smpofficial?stkn=NGU5MnZnNDRpMG5s",
+        "SUBSCRIBE TO YOUTUBE : https://youtube.com/@anshzxd?sub_confirmation=1 ",
+        "JOIN DISCORD : https://discord.gg/BFbnCHGtgr "
       ]
     },
     "chat-log": true,
